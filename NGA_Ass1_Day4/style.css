@@ -1,0 +1,38 @@
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    
+     height: 100px;
+     width: 99%;
+     background-color: orange;
+     margin-bottom: 20px;
+     display: inline-block;
+    
+}
+.box2{
+     height: 400px;
+     width: 99%;
+     background-color: rgb(176, 140, 74);
+     display: inline-block;
+}
+.box2 img{
+    width: 200px;
+    height: 200px;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(130, 106, 106);
+    color: lightblue;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+h1{
+    font-size: 40px;
+    color: blue;
+    display: block;
+
+}
